@@ -22,7 +22,7 @@ const VALID = 1;
 const VALID_CAPTURE = 2;
 
 const piecesCharacters = {
-    0: '兵',
+    0: '兵', 
     1: '車',
     2: '馬',
     3: '象',

@@ -1,0 +1,17 @@
+.box {
+  padding-left: 5cm;
+  padding-top: 10cm;
+  border: 1;
+  margin-bottom: 5;
+  text-align: center;
+}
+
+p {
+  background-color: blue;
+  color: azure;
+}
+
+.box p {
+  background-color: brown;
+  color: azure;
+}
